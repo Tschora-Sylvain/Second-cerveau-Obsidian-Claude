@@ -18,6 +18,9 @@ Slash commands
 Les commandes personnalisées se trouvent dans .claude/commands :
 
 /ingest — ingérer une source depuis raw/ dans le wiki
+
 /lint — détecter contradictions, orphelins et lacunes
+
 /query — poser une question répondue depuis le wiki
+
 /save — classer la dernière réponse comme page de synthèse
